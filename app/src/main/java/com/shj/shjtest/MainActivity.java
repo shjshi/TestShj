@@ -5,9 +5,23 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
+
+
+
+
+    //shj add
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
+
+        //add
         super.onCreate(savedInstanceState);
+
+
+        //add
         setContentView(R.layout.activity_main);
     }
 }
